@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 Currently diving deeper into Java and building confidence one step at a time
+- 🌱 Learning to navigate Java projects, one step at a time
+- 🤔 On the lookout for smart Java tips to level up my code
+  
 <!--
 **tijanamladenovska/tijanamladenovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
