@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Currently diving deeper into Java and building confidence one step at a time
-- 🌱 Learning to navigate Java projects, one step at a time
+- 🌱 Learning to navigate Java projects at my own pace
 - 🤔 On the lookout for smart Java tips to level up my code
   
 <!--
