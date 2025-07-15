@@ -1,8 +1,11 @@
 ## Hi there 👋
 
+My name is Tijana, and I am a BSc Computer Science student passionate about software engineering and cybersecurity!
+
 - 🔭 Currently diving deeper into Java and building confidence one step at a time
 - 🌱 Learning to navigate Java projects at my own pace
 - 🤔 On the lookout for smart Java tips to level up my code
+  - 📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/tijana-mladenovska) 
   
 <!--
 **tijanamladenovska/tijanamladenovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
